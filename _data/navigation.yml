@@ -6,14 +6,14 @@ main:
 #  - title: "News"
 #    url: "/#-news"
 
-  - title: "Research"
-    url: "/#-research"
+  - title: "Publications"
+    url: "/#-publications"
 
- # - title: "Honors and Awards"
- #  url: "/#-honors-and-awards"
+ - title: "Work in Progress"
+   url: "/#-work-in-progress"
 
- # - title: "Educations"
- #   url: "/#-educations"
+  - title: "Presentations"
+    url: "/#-presentations"
 
  # - title: "Invited Talks"
  #   url: "/#-invited-talks"
