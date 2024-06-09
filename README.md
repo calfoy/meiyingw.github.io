@@ -4,8 +4,7 @@ Chao's homepage
 </h1>
 
 
-<p align="center">Site by [Chao Wang](https://chaodwang.github.io/) Theme by [Yi Ren](https://rayeren.github.io/)</p>
-
+Site by [Chao Wang](https://chaodwang.github.io/)  Theme by [Yi Ren](https://rayeren.github.io/)
 
 
 # Acknowledges
