@@ -21,9 +21,10 @@ Welcome to my personal website! I am a PhD candidate in management science at [E
 
 In my free time, I enjoy learning new things. Recently I learned surfskating and tennis.
 
-<span class='anchor' id='research'></span>
+<span class='anchor' id='publications'></span>
 # Publications
 
+<span class='anchor' id='work-in-progress'></span>
 # Work in progress
 
 
