@@ -24,11 +24,26 @@ In my free time, I enjoy learning new things. Recently I learned surfskating and
 <span class='anchor' id='publications'></span>
 # Publications
 
+- Yang, Y., Tang, C., Qu, X., **Wang, C.**, & Denson, T. F. (2018). Group facial Width-to-Height Ratio predicts intergroup negotiation outcomes. *Frontiers in Psychology, 9*. [https://doi.org/10.3389/fpsyg.2018.00214](https://doi.org/10.3389/fpsyg.2018.00214)
+
+- Yang, Y., De Cremer, D., & **Wang, C.** (2017). How ethically would Americans and Chinese negotiate? The effect of intra-cultural versus inter-cultural negotiations. *Journal of Business Ethics, 145*(3), 659–670. [https://doi.org/10.1007/s10551-015-2863-2](https://doi.org/10.1007/s10551-015-2863-2)
+
 <span class='anchor' id='work-in-progress'></span>
 # Work in progress
 
+- Zhou, H., **Wang, C.**, Li, Z., & Yang, Y. Reinstating Pleasantness as a Causal Antecedent of Interest. *Under review in JPSP*
 
+- **Wang, C.** & Schmid, K. The role of undesirable precedents in negotiations. *Manuscript in preparation*
 
+-  **Wang, C.**, Kesebir, S., & Schmid, K. Self-reinforcing reminders. *Data collection*
+
+-  **Wang, C.** & Schmid, K. When and why do people underestimate the effect of undesirable precedents? *Data collecation*
+
+ - Jang, D., **Wang, C.**, & Loewenstein, J. Information ambiguity in negotiations. *Data collection*
+
+ - **Wang, C.**, Schmid, K., & Kesebir, S. The benefits and costs of being over-precise. *Study design*
+
+ - Yang, Y., **Wang, C.**, Shen, Y., & Zhou, H. Effect of arbitrary numbers in scoring system. *Data collection*
 
 <span class='anchor' id='presentations'></span>
 # Conference presentations
@@ -58,8 +73,8 @@ In my free time, I enjoy learning new things. Recently I learned surfskating and
 
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# Curriculum vitae
+
+
 
 
