@@ -22,10 +22,15 @@ Welcome to my personal website! I am a PhD candidate in management science at [E
 In my free time, I enjoy learning new things. Recently I learned surfskating and tennis.
 
 <span class='anchor' id='research'></span>
+# Publications
 
-# Research
+# Work in progress
 
-## Presentations
+
+
+
+<span class='anchor' id='presentations'></span>
+# Conference presentations
 
 - Zhou, H., **Wang, C.** (Presenter), Li, Z., & Yang, Y. (upcoming: 2024, July) Reinstating Pleasantness as a Causal Antecedent of Interest [Oral presentation]. *2024 Conference of theInternational Society for Research on Emotion (ISRE)*, Belfast, Northern Ireland.
 
