@@ -7,16 +7,16 @@ main:
 #    url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Work in Progress"
-    url: "/#-work-in-progress"
+    url: "/#work-in-progress"
 
   - title: "Presentations"
-    url: "/#-presentations"
+    url: "/#presentations"
 
  # - title: "Invited Talks"
  #   url: "/#-invited-talks"
 
   - title: "CV"
-    url: "/#-cv"
+    url: "/#cv"
