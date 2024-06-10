@@ -64,7 +64,7 @@ Drop me a note via the email listed in the sidebar if you'd like to connect!
 <span class='anchor' id='cv'></span>
 # Curriculum vitae
 
-<a href="https://chaodwang.github.io/_pages/cv.pdf" class="image fit" target="_blank">(Updated in June 2024) CV</a>
+<a href="https://chaodwang.github.io/_pages/cv.pdf" class="image fit" target="_blank">CV (Updated in June 2024)</a>
 
 <br>
 <br>
