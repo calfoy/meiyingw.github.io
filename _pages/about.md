@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my personal website! I am a PhD candidate in management science at [ESADE business school](https://www.esade.edu/en) at Barcelona. My research focuses on understanding inter-temporal decisions in the workplace. My dissertation examines how undesirable precedents affect current and future decisions in workplace settings and negotiations. I am also interested in research methods.
 
-In my free time, I enjoy learning new things. Recently I learned surfskating and tennis.
+In my free time, I like to learn new things. Recently I learned surfskating and tennis.
 
 <span class='anchor' id='publications'></span>
 # Publications
@@ -64,9 +64,9 @@ In my free time, I enjoy learning new things. Recently I learned surfskating and
 
 <a href="https://chaodwang.github.io/docs/cv.pdf" class="image fit" target="_blank">(Updated in June 2024) CV</a>
 
-3. <a href="https://chaodwang.github.io/cv.pdf" class="image fit">(Updated in June 2024) CV</a>
+3. <a href="https://chaodwang.github.io/_pages/cv.pdf" class="image fit">(Updated in June 2024) CV</a>
 
-4. <a href="https://chaodwang.github.io/cv.pdf" class="image fit" target="_blank">(Updated in June 2024) CV</a>
+4. <a href="https://chaodwang.github.io/_pages/cv.pdf" class="image fit" target="_blank">(Updated in June 2024) CV</a>
 
 
 
