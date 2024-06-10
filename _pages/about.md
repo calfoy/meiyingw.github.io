@@ -21,7 +21,7 @@ Welcome to my personal website! I am a PhD candidate in management science at [E
 
 In my free time, I enjoy exploring new skills and activities that I didn't have the opportunity to learn earlier in life. Recently, I've taken up surfskating and tennis, both of which challenge me to stay focused and agile.
 
-Drop me a note via the email listed in the sidebar if you would like to connect. 
+Drop me a note via the email listed in the sidebar if you'd like to connect!
 
 <span class='anchor' id='publications'></span>
 # Publications
