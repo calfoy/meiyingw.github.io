@@ -33,19 +33,19 @@ Drop me a note via the email listed in the sidebar if you would like to connect.
 <span class='anchor' id='work-in-progress'></span>
 # Work in progress
 
-- Zhou, H., **Wang, C.**, Li, Z., & Yang, Y. Reinstating Pleasantness as a Causal Antecedent of Interest. *Under review in JPSP*
+- (with Haotian Zhou, Ziqian Li, & Yu Yang). Reinstating Pleasantness as a Causal Antecedent of Interest. *Under review in JPSP*
 
-- **Wang, C.** & Schmid, K. The role of undesirable precedents in negotiations. *Manuscript in preparation*
+- (with Katharina Schmid). The role of undesirable precedents in negotiations. *Manuscript in preparation*
 
--  **Wang, C.**, Kesebir, S., & Schmid, K. Self-reinforcing reminders. *Data collection*
+- (with Selin Kesebir & Katharina Schmid). Self-reinforcing reminders. *Data collection*
 
--  **Wang, C.** & Schmid, K. When and why do people underestimate the effect of undesirable precedents? *Data collecation*
+- (with Katharina Schmid). When and why do people underestimate the effect of undesirable precedents? *Data collecation*
 
- - Jang, D., **Wang, C.**, & Loewenstein, J. Information ambiguity in negotiations. *Data collection*
+- (with Daisung Jang & Jeffrey Loewenstein). Information ambiguity in negotiations. *Data collection*
+  
+- (with Katharina Schmid & Selin Kesebir). The benefits and costs of being over-precise. *Study design*
 
- - **Wang, C.**, Schmid, K., & Kesebir, S. The benefits and costs of being over-precise. *Study design*
-
- - Yang, Y., **Wang, C.**, Shen, Y., & Zhou, H. Effect of arbitrary numbers in scoring system. *Data collection*
+- (with Yu Yang, Yixiao Shen, & Haotian Zhou). Effect of arbitrary numbers in scoring system. *Data collection*
 
 <span class='anchor' id='presentations'></span>
 # Conference presentations
@@ -64,6 +64,8 @@ Drop me a note via the email listed in the sidebar if you would like to connect.
 # Curriculum vitae
 
 <a href="https://chaodwang.github.io/_pages/cv.pdf" class="image fit" target="_blank">(Updated in June 2024) CV</a>
+
+
 
 
 
