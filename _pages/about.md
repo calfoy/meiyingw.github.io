@@ -60,7 +60,7 @@ In my free time, I enjoy learning new things. Recently I learned surfskating and
 
 <span class='anchor' id='cv'></span>
 # Curriculum vitae
-<a href="includes/cv.pdf" class="image fit">(Updated in June 2024)CV</a>
+<a href="includes/cv.pdf" class="image fit">(Updated in June 2024) CV</a>
 
 
 
