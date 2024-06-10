@@ -60,6 +60,8 @@ In my free time, I enjoy learning new things. Recently I learned surfskating and
 
 <span class='anchor' id='cv'></span>
 # Curriculum vitae
+<a href="docs/cv.pdf" class="image fit"><(Updated in June 2024)CV></a>
+
 [(Updated in June 2024)CV](https://chaodwang.github.io/docs/cv.pdf/)
 
 
