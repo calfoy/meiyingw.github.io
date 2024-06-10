@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# About me
 
 Welcome to my personal website! I am a PhD candidate in management science at [ESADE business school](https://www.esade.edu/en) at Barcelona. My research focuses on understanding decisions over time (i.e., inter-temporal decisions) in the workplace. My dissertation examines how undesirable precedents affect current and future decisions in negotiations. I am also interested in research methods. 
 
