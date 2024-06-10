@@ -60,9 +60,13 @@ In my free time, I enjoy learning new things. Recently I learned surfskating and
 
 <span class='anchor' id='cv'></span>
 # Curriculum vitae
-<a href="https://chaodwang.github.io/docs/docs/cv.pdf" class="image fit">(Updated in June 2024) CV</a>
+<a href="https://chaodwang.github.io/docs/cv.pdf" class="image fit">(Updated in June 2024) CV</a>
 
-<a href="https://chaodwang.github.io/docs/docs/cv.pdf" class="image fit" target="_blank">(Updated in June 2024) CV</a>
+<a href="https://chaodwang.github.io/docs/cv.pdf" class="image fit" target="_blank">(Updated in June 2024) CV</a>
+
+3. <a href="https://chaodwang.github.io/cv.pdf" class="image fit">(Updated in June 2024) CV</a>
+
+4. <a href="https://chaodwang.github.io/cv.pdf" class="image fit" target="_blank">(Updated in June 2024) CV</a>
 
 
 
