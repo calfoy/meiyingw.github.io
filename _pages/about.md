@@ -40,7 +40,7 @@ Drop me a note via the email listed in the sidebar if you'd like to connect!
 
 - (with Selin Kesebir & Katharina Schmid). Self-reinforcing reminders. *Data collection*
 
-- (with Katharina Schmid). When and why do people underestimate the effect of undesirable precedents? *Data collecation*
+- (with Katharina Schmid). When and why do people underestimate the effect of undesirable precedents? *Data collection*
 
 - (with Daisung Jang & Jeffrey Loewenstein). Information ambiguity in negotiations. *Data collection*
   
