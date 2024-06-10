@@ -34,7 +34,7 @@ Drop me a note via the email listed in the sidebar if you'd like to connect!
 <span class='anchor' id='work-in-progress'></span>
 # Work in progress
 
-- (with Haotian Zhou, Ziqian Li, & Yu Yang). Reinstating Pleasantness as a Causal Antecedent of Interest. *Under review in JPSP*
+- Zhou, H., **Wang, C.**, Li, Z., & Yang, Y. Reinstating Pleasantness as a Causal Antecedent of Interest. *Under review in JPSP*
 
 - (with Katharina Schmid). The role of undesirable precedents in negotiations. *Manuscript in preparation*
 
@@ -51,7 +51,7 @@ Drop me a note via the email listed in the sidebar if you'd like to connect!
 <span class='anchor' id='presentations'></span>
 # Conference presentations
 
-- Zhou, H., **Wang, C.** (Presenter), Li, Z., & Yang, Y. (upcoming: 2024, July) Reinstating Pleasantness as a Causal Antecedent of Interest [Oral presentation]. *2024 Conference of theInternational Society for Research on Emotion (ISRE)*, Belfast, Northern Ireland.
+- Zhou, H., **Wang, C.** (Presenter), Li, Z., & Yang, Y. (upcoming: 2024, July) Suppressed Pleasure: Reinstating Pleasantness as a Causal Antecedent of Interest [Oral presentation]. *2024 Conference of theInternational Society for Research on Emotion (ISRE)*, Belfast, Northern Ireland.
 
 - **Wang, C.** (Presenter), & Schmid, K. (upcoming: 2024, June) The Shadow of the Past: Unveiled Undesirable Precedents Harm (Objective and Subjective) Negotiation Outcomes [Oral presentation]. *The 37th Annual Conference of International Association for Conflict Management (IACM 2024)*, Singapore.
 
