@@ -65,12 +65,14 @@ Drop me a note via the email listed in the sidebar if you would like to connect.
 
 <a href="https://chaodwang.github.io/_pages/cv.pdf" class="image fit" target="_blank">(Updated in June 2024) CV</a>
 
-
+<br>
+<br>
+<br>
 
 
 
 <p align="center">
-Site by [Chao Wang](https://chaodwang.github.io/)  Theme by [Yi Ren](https://rayeren.github.io/)
+Site by <a href="https://chaodwang.github.io/" target="_blank">Chao Wang</a> Theme by <a href="https://rayeren.github.io/" target="_blank">RayeRen</a>
 </p>
 
 
