@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About me
 
-Welcome to my personal website! I am a PhD candidate in management science at [ESADE business school](https://www.esade.edu/en) at Barcelona. My research focuses on understanding decisions over time (i.e., inter-temporal decisions) in the workplace. My dissertation examines how undesirable precedents affect current and future decisions in negotiations. I am also interested in research methods. 
+Welcome to my personal website! I am a PhD candidate in management science at [ESADE business school](https://www.esade.edu/en) at Barcelona. My research focuses on understanding decisions over time (i.e., inter-temporal decisions) in the workplace. My dissertation examines how undesirable negotiation precedents affect current and future negotiations. I am also interested in research methods. 
 
 In my free time, I enjoy exploring new skills and activities that I didn't have the opportunity to learn earlier in life. Recently, I've taken up surfskating and tennis, both of which challenge me to stay focused and agile.
 
