@@ -20,7 +20,7 @@ redirect_from:
 
 Welcome to my personal website! I am a PhD candidate in management science at [ESADE business school](https://www.esade.edu/en) at Barcelona. My research focuses on understanding decisions over time (i.e., inter-temporal decisions) in the workplace. My dissertation studies undesirable precedents in negotiations. I am also interested in research methods. 
 
-I have studied or worked in China, Spain, the US, and the UK. During my PhD, I spent six months as a visiting scholar at London Business School during the 2023-2024 academic year.
+I have studied in China, Spain, the US, and the UK. During my PhD, I spent six months as a visiting scholar at London Business School during the 2023-2024 academic year.
 
 In my free time, I enjoy exploring new skills and activities that I didn't have the opportunity to learn earlier in life. Recently, I've taken up surfskating and tennis, both of which challenge me to stay focused and agile.
 
