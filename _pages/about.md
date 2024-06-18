@@ -42,9 +42,9 @@ Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to conn
 
 - (with Selin Kesebir & Katharina Schmid). Self-reinforcing reminders. *Data collection*
 
-- (with Katharina Schmid). When and why do people underestimate the effect of undesirable precedents? *Data collection*
-
 - (with Daisung Jang & Jeffrey Loewenstein). Information ambiguity in negotiations. *Data collection*
+
+- (with Katharina Schmid). When and why do people underestimate the effect of undesirable precedents? *Data collection*
   
 - (with Katharina Schmid & Selin Kesebir). The benefits and costs of being over-precise. *Study design*
 
