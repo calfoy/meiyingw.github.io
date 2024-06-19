@@ -29,26 +29,26 @@ Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to conn
 <span class='anchor' id='publications'></span>
 # Publications
 
-- Yang, Y., Tang, C., Qu, X., **Wang, C.**, & Denson, T. F. (2018). Group facial Width-to-Height Ratio predicts intergroup negotiation outcomes. *Frontiers in Psychology, 9*. [https://doi.org/10.3389/fpsyg.2018.00214](https://doi.org/10.3389/fpsyg.2018.00214)
+- Yang, Y., Tang, C., Qu, X., **Wang, C.**, & Denson, T. F. (2018). Group Facial Width-to-Height Ratio Predicts Intergroup Negotiation Outcomes. *Frontiers in Psychology, 9*. [https://doi.org/10.3389/fpsyg.2018.00214](https://doi.org/10.3389/fpsyg.2018.00214)
 
-- Yang, Y., De Cremer, D., & **Wang, C.** (2017). How ethically would Americans and Chinese negotiate? The effect of intra-cultural versus inter-cultural negotiations. *Journal of Business Ethics, 145*(3), 659–670. [https://doi.org/10.1007/s10551-015-2863-2](https://doi.org/10.1007/s10551-015-2863-2)
+- Yang, Y., De Cremer, D., & **Wang, C.** (2017). How Ethically Would Americans and Chinese Negotiate? The Effect of Intra-cultural Versus Inter-cultural Negotiations. *Journal of Business Ethics, 145*(3), 659–670. [https://doi.org/10.1007/s10551-015-2863-2](https://doi.org/10.1007/s10551-015-2863-2)
 
 <span class='anchor' id='work-in-progress'></span>
 # Work in progress
 
 - Zhou, H., **Wang, C.**, Li, Z., & Yang, Y. Reinstating Pleasantness as a Causal Antecedent of Interest. *Under review in JPSP*
 
-- (with Katharina Schmid). The role of undesirable precedents in negotiations. *Manuscript in preparation*
+- (with Katharina Schmid). The Role of Undesirable Precedents in Negotiations. *Manuscript in preparation*
 
-- (with Selin Kesebir & Katharina Schmid). Self-reinforcing reminders. *Data collection*
+- (with Selin Kesebir & Katharina Schmid). Reminders, Agency, and Managers' Willingness to Delegate. *Data collection*
 
 - (with Daisung Jang & Jeffrey Loewenstein). Information ambiguity in negotiations. *Data collection*
 
-- (with Katharina Schmid). When and why do people underestimate the effect of undesirable precedents? *Data collection*
+- (with Katharina Schmid). When and Why Do People Underestimate the Effect of Undesirable Precedents? *Data collection*
   
-- (with Katharina Schmid & Selin Kesebir). The benefits and costs of being over-precise. *Study design*
+- (with Katharina Schmid & Selin Kesebir). Benefits and Costs of Being Over-precise. *Study design*
 
-- (with Yu Yang, Yixiao Shen, & Haotian Zhou). Effect of arbitrary numbers in scoring system. *Data collection*
+- (with Yu Yang, Yixiao Shen, & Haotian Zhou). Effect of Arbitrary Numbers in Scoring System of Negotiations. *Data collection*
 
 <span class='anchor' id='presentations'></span>
 # Conference presentations
@@ -61,7 +61,7 @@ Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to conn
 
 - Loyd, D., Brown, A., **Wang, C.** (Presenter), Thomas-Hunt, M., & Yang, Y. (2018, July) Who shall lead us?: Leader nationality and style influence US follower’s reactions to leaders of nationally diverse teams [Oral presentation]. *The 13th annual INGRoup (interdisciplinary network for group research) conference*, Bethesda, USA.
 
-- Loewenstein, J., & **Wang, C.** (Presenter) (2016, June) Social support for creative agreements: Distinct effects of respect and trust [Oral presentation]. *The 29th Annual Conference of International Association for Conflict Management (IACM)*, New York City, USA.
+- Loewenstein, J., & **Wang, C.** (Presenter) (2016, June) Social Support for Creative Agreements: Distinct Effects of Respect and Trust [Oral presentation]. *The 29th Annual Conference of International Association for Conflict Management (IACM)*, New York City, USA.
 
 <span class='anchor' id='cv'></span>
 # Curriculum vitae
