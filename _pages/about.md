@@ -15,15 +15,23 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='cv'></span>
+# Curriculum vitae
+
+<a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">CV (Updated in June 2024)</a>
+
 <span class='anchor' id='about-me'></span>
 # About me
 
 Welcome to my personal website! I am a PhD candidate in management science at [ESADE business school](https://www.esade.edu/en) at Barcelona. My research focuses on understanding decisions over time (i.e., inter-temporal decisions) in the workplace. My dissertation studies undesirable precedents in negotiations. I am also interested in research methods. 
 
+<br>
 I have studied in China, Spain, the US, and the UK. During my PhD, I spent six months as a visiting PhD student at London Business School during the 2023-2024 academic year.
+<br>
 
 In my free time, I enjoy exploring new skills and activities that I didn't have the opportunity to learn earlier in life. Recently, I've taken up surfskating and tennis, both of which challenge me to stay focused and agile.
 
+<br>
 Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to connect!
 
 <span class='anchor' id='publications'></span>
@@ -63,10 +71,7 @@ Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to conn
 
 - Loewenstein, J., & **Wang, C.** (Presenter) (2016, June) Social Support for Creative Agreements: Distinct Effects of Respect and Trust [Oral presentation]. *The 29th Annual Conference of International Association for Conflict Management (IACM)*, New York City, USA.
 
-<span class='anchor' id='cv'></span>
-# Curriculum vitae
 
-<a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">CV (Updated in June 2024)</a>
 
 <br>
 <br>
