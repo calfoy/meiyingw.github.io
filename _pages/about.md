@@ -47,7 +47,7 @@ Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to conn
 <span class='anchor' id='work-in-progress'></span>
 # Work in progress
 
-- Zhou, H., **Wang, C.**, Li, Z., & Yang, Y. Reinstating Pleasantness as a Causal Antecedent of Interest. *Under review in JPSP*
+- Zhou, H., **Wang, C.**, Li, Z., & Yang, Y. Reinstating Pleasantness as a Causal Antecedent of Interest. *Working paper*
 
 - (with Katharina Schmid). The Role of Undesirable Precedents in Negotiations. *Manuscript in preparation*
 
