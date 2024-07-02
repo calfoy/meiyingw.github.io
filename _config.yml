@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chao Wang"
-description              : "PhD candidate in management science"
+description              : "PhD candidate in Management Science"
 repository               : "chaodwang/chaodwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chao Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "ESADE business school"
+  bio              : "ESADE Business School"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
