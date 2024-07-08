@@ -15,10 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='cv'></span>
-# Curriculum vitae
-
-<a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">CV (Updated in June 2024)</a>
 
 <span class='anchor' id='about-me'></span>
 # About me
@@ -36,6 +32,12 @@ In my free time, I enjoy exploring new skills and activities that I didn't have 
 <br>
 
 Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to connect!
+
+<span class='anchor' id='cv'></span>
+# Curriculum vitae
+
+<a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">CV (Updated in June 2024)</a>
+
 
 <span class='anchor' id='publications'></span>
 # Publications
