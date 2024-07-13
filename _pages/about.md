@@ -34,7 +34,7 @@ In my free time, I enjoy exploring new skills and activities that I didn't have 
 Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to connect!
 
 <span class='anchor' id='cv'></span>
-# <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">Curriculum vitae</a>
+# Click to view <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">my CV</a>
 
 <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">CV (Updated in June 2024)</a>
 
