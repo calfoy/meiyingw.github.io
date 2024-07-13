@@ -36,7 +36,7 @@ Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to conn
 <span class='anchor' id='cv'></span>
 # Curriculum Vitae
 
-Click to view <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">my CV</a>
+Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">CV</a>
 
 
 <span class='anchor' id='publications'></span>
