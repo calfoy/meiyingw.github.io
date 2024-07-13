@@ -66,9 +66,9 @@ Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to conn
 <span class='anchor' id='presentations'></span>
 # Conference presentations
 
-- Zhou, H., **Wang, C.** (Presenter), Li, Z., & Yang, Y. (*forthcoming*: 2024, July) Suppressed Pleasure: Reinstating Pleasantness as a Causal Antecedent of Interest [Oral presentation]. *2024 Conference of theInternational Society for Research on Emotion (ISRE)*, Belfast, Northern Ireland.
+- Zhou, H., **Wang, C.** (Presenter), Li, Z., & Yang, Y. (2024, July) Suppressed Pleasure: Reinstating Pleasantness as a Causal Antecedent of Interest [Oral presentation]. *2024 Conference of the International Society for Research on Emotion (ISRE)*, Belfast, Northern Ireland.
 
-- **Wang, C.** (Presenter), & Schmid, K. (*forthcoming*: 2024, June) The Shadow of the Past: Unveiled Undesirable Precedents Harm (Objective and Subjective) Negotiation Outcomes [Oral presentation]. *The 37th Annual Conference of International Association for Conflict Management (IACM 2024)*, Singapore.
+- **Wang, C.** (Presenter), & Schmid, K. (2024, June) The Shadow of the Past: Unveiled Undesirable Precedents Harm (Objective and Subjective) Negotiation Outcomes [Oral presentation]. *The 37th Annual Conference of International Association for Conflict Management (IACM 2024)*, Singapore.
 
 - **Wang, C.** (Presenter), & Schmid, K. (2023, November) The Shadow of the Past: Disclosed Undesirable Precedents Harm (Objective and Subjective) Negotiation Outcomes [Poster presentation]. *Society for Judgment and Decision Making Annual Conference 2023*, San Francisco, USA.
 
