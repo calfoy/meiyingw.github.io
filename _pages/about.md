@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About me
 
-Welcome to my personal website! I am a PhD candidate in Management Science at [ESADE Business School](https://www.esade.edu/en/about-us/who-we-are) at Barcelona. My research focuses on understanding decisions over time (i.e., inter-temporal decisions) in the workplace. My dissertation studies undesirable precedents in negotiations. I am also interested in research methods. 
+Welcome to my personal website! I am a PhD candidate in Management Science with a specialization in **Organizational Behavior**. at [ESADE Business School](https://www.esade.edu/en/about-us/who-we-are) at Barcelona. My research focuses on understanding decisions over time (i.e., inter-temporal decisions) in the workplace. My dissertation studies undesirable precedents in negotiations. I am also interested in research methods. 
 
 <br>
 
