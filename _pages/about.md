@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About me
 
-Welcome to my personal website! I am a PhD candidate in Management Science with a specialization in **Organizational Behavior** at [ESADE Business School](https://www.esade.edu/en/about-us/who-we-are) in Barcelona. My research examines the psychological foundations of workplace decisions, with a focus on negotiations and managerial contexts. My dissertation systematically investigates how undesirable precedents shape negotiation processes and outcomes. In my research, I use traditional approaches, such as lab/online experiments and surveys, as well as computational social science techniques, including natural language processing and large language models. 
+Welcome to my personal website! I am a PhD candidate in Management Science with a specialization in **Organizational Behavior** at [ESADE Business School](https://www.esade.edu/en/about-us/who-we-are) in Barcelona. My research examines the psychological foundations of workplace decisions, with a focus on negotiations and managerial contexts. My dissertation systematically investigates how undesirable precedents shape negotiation processes and outcomes. In my research, I use both traditional methods (e.g., lab/online experiments and surveys) and natural language processing approaches (e.g., word embeddings and large language models). 
 
 <br>
 
