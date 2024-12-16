@@ -63,8 +63,6 @@ Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Curren
   
 - (with Katharina Schmid & Selin Kesebir). Benefits and Costs of Being Over-precise. *Study design*
 
-- (with Yu Yang, Yixiao Shen, & Haotian Zhou). Effect of Arbitrary Numbers in Scoring System of Negotiations. *Data collection*
-
 <span class='anchor' id='presentations'></span>
 # Conference presentations
 
