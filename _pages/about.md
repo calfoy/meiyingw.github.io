@@ -20,15 +20,19 @@ redirect_from:
 # About me
 
 Welcome to my personal website! 
+
 <br>
 
 I am a PhD candidate in Management Science with a specialization in **Organizational Behavior** at [ESADE Business School](https://www.esade.edu/en/about-us/who-we-are) in Barcelona. My research examines the psychological foundations of workplace decisions, with a focus on negotiations and managerial contexts. My dissertation systematically investigates how undesirable precedents shape negotiation processes and outcomes. In my research, I use both traditional methods (e.g., lab/online experiments and surveys) and natural language processing approaches (e.g., word embeddings and large language models). 
+
 <br>
 
 I have studied in China, Spain, the US, and the UK. During my PhD, I spent six months as a visiting doctoral student at London Business School during the 2023-2024 academic year.
+
 <br>
 
 In my free time, I enjoy exploring new skills and activities that I didn't have the opportunity to learn earlier in life. Recently, I've taken up surfskating and tennis, both of which challenge me to stay focused and agile.
+
 <br>
 
 Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to connect!
