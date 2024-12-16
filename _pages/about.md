@@ -64,8 +64,6 @@ Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Curren
 - (with Daisung Jang & Jeffrey Loewenstein). Information ambiguity in negotiations. *Data collection*
 
 - (with Katharina Schmid). When and Why Do People Underestimate the Effect of Undesirable Precedents? *Data collection*
-  
-- (with Katharina Schmid & Selin Kesebir). Benefits and Costs of Being Over-precise. *Study design*
 
 <span class='anchor' id='presentations'></span>
 # Conference presentations
