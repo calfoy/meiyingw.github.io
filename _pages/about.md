@@ -53,9 +53,9 @@ Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Curren
 
 - (with Katharina Schmid). The Role of Undesirable Precedents in Negotiations. *Manuscript in preparation*
 
-- (with Selin Kesebir & Katharina Schmid). Reminders, Agency, and Managers' Willingness to Delegate. *Data collection*
+- (with Selin Kesebir & Daniel Heller). Gender and fairness perception. *Data collection*
 
-- (with Selin Kesebir & Daniel Heller). Gender and justice perception. *Data collection*
+- (with Selin Kesebir & Katharina Schmid). Reminders, Agency, and Managers' Willingness to Delegate. *Data collection*
 
 - (with Daisung Jang & Jeffrey Loewenstein). Information ambiguity in negotiations. *Data collection*
 
