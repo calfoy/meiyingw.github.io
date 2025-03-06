@@ -53,17 +53,19 @@ Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Curren
 <span class='anchor' id='work-in-progress'></span>
 # Work in progress
 
+- (with Katharina Schmid). The Role of Undesirable Precedents in Negotiations. *Working paper*
+
 - Zhou, H., **Wang, C.**, Li, Z., & Yang, Y. Reinstating Pleasantness as a Causal Antecedent of Interest. *Working paper*
 
-- (with Katharina Schmid). The Role of Undesirable Precedents in Negotiations. *Manuscript in preparation*
+- (with Selin Kesebir & Daniel Heller). Gender and Fairness Perception. *Data collection*
 
-- (with Selin Kesebir & Daniel Heller). Gender and fairness perception. *Data collection*
+- (with Daisung Jang & Jeffrey Loewenstein). Perceptions of Information in Negotiations. *Data collection*
+
+- (with Katharina Schmid). Overcoming Undesirable Precedents in Negotiations. *Data collection*
 
 - (with Selin Kesebir & Katharina Schmid). Reminders, Agency, and Managers' Willingness to Delegate. *Data collection*
 
-- (with Daisung Jang & Jeffrey Loewenstein). Information ambiguity in negotiations. *Data collection*
-
-- (with Katharina Schmid). When and Why Do People Underestimate the Effect of Undesirable Precedents? *Data collection*
+- (with Katharina Schmid). When and Why Do People Underestimate the Effect of Undesirable Precedents? *Conceptual stage*
 
 <span class='anchor' id='presentations'></span>
 # Conference presentations
