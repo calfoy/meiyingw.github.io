@@ -57,7 +57,7 @@ Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Curren
 
 - Zhou, H., **Wang, C.**, Li, Z., & Yang, Y. Reinstating Pleasantness as a Causal Antecedent of Interest. *Working paper*
 
-- (with Selin Kesebir & Daniel Heller). Gender and Fairness Perception. *Data collection*
+- (with Selin Kesebir & Daniel Heller). Gender and Equity Perceptions. *Data collection*
 
 - (with Daisung Jang & Jeffrey Loewenstein). Perceptions of Information in Negotiations. *Data collection*
 
