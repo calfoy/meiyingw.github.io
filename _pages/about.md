@@ -23,7 +23,8 @@ Welcome to my personal website!
 
 <br>
 
-I am a PhD candidate in Management Science with a specialization in **Organizational Behavior** at [ESADE Business School](https://www.esade.edu/en/about-us/who-we-are) in Barcelona. My research examines the psychological foundations of workplace decisions, with a focus on negotiations and managerial contexts. My dissertation systematically investigates how undesirable precedents shape negotiation processes and outcomes. In my research, I use both traditional methods (e.g., lab/online experiments and surveys) and natural language processing approaches (e.g., word embeddings and large language models). 
+I am a PhD candidate in Management Science with a specialization in **Organizational Behavior** at [ESADE Business School](https://www.esade.edu/en/about-us/who-we-are) in Barcelona. My research investigates how **social norms and norm deviations** shape key workplace decisions, particularly in negotiations and human resource decisions. My dissertation, for example, examines how precedents that deviate from established norms create powerful situational constraints for negotiators. My other research streams explore how fairness norms influence equity perceptions across genders and how conversational norms affect information sharing in negotiations. 
+My methodological toolkit is versatile, using tools ranging from traditional methods (e.g., lab/online experiments and surveys) to computational linguistics tools (e.g., word embeddings and large language models).
 
 <br>
 
