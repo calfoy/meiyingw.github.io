@@ -19,67 +19,48 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About me
 
-Welcome to my personal website! 
+
+I’m a researcher interested in behavioral and psychological studies. Currently, I am a 4th year PhD candidate in Marketing at London Business School. My research investigates how **reference points and counterfactual thinking** shape individual decisions and actions, particularly in consumer behaviors.
+Before joining LBS, I obtained my Bachelor’s degree in Social Sciences (psychology) from University of Hong Kong and worked as a research assistant at ShanghaiTech University. I am very curious about the psychological precedents behind people’s behaviors, choices and judgments, and I hope to conduct some interesting research that might be informative or change-provoking!
 
 <br>
 
-I am a PhD candidate in Management Science with a specialization in **Organizational Behavior** at [ESADE Business School](https://www.esade.edu/en/about-us/who-we-are) in Barcelona. My research investigates how **social norms and norm deviations** shape key workplace decisions, particularly in negotiations and human resource decisions. My dissertation, for example, examines how precedents that deviate from established norms create powerful situational constraints for negotiators. My other research streams explore how fairness norms influence equity perceptions across genders and how conversational norms affect information sharing in negotiations. 
-My methodological toolkit is versatile, using tools ranging from traditional methods (e.g., lab/online experiments and surveys) to computational linguistics tools (e.g., word embeddings and large language models).
-
-<br>
-
-I have studied in China, Spain, the US, and the UK. During my PhD, I spent six months as a visiting doctoral student at London Business School during the 2023-2024 academic year. Prior to joining the PhD program at ESADE, I obtained a Master's degree from the University of Illinois Urbana-Champaign (USA), and a Master's and a Bachelor's degree from Nanjing University (China).
-
-<br>
-
-In my free time, I enjoy exploring new skills and activities that I didn't have the opportunity to learn earlier in life. Recently, I've taken up surfskating and tennis, both of which challenge me to stay focused and agile.
-
-<br>
-
-Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to connect!
+Drop me a note via this [link](mailto:mwang@london.edu) if you'd like to connect!
 
 <span class='anchor' id='cv'></span>
 # Curriculum Vitae
 
-Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Current.pdf" class="image fit" target="_blank">CV</a>
+Click to view my <a href="https://chaodwang.github.io/_pages/CV_MEIYING_Wang_CURRENT.pdf" class="image fit" target="_blank">CV</a>
 
 
 <span class='anchor' id='publications'></span>
 # Publications
+- Zhou, H., **Wang, M.**, Yang, Y., & Majka, E. A. (2024). Face masks facilitate discrimination of genuine and fake smiles–But people believe the opposite. *Journal of Experimental Social Psychology, 115*, 104658. [https://doi.org/10.1016/j.jesp.2024.104658]
 
-- Yang, Y., Tang, C., Qu, X., **Wang, C.**, & Denson, T. F. (2018). Group Facial Width-to-Height Ratio Predicts Intergroup Negotiation Outcomes. *Frontiers in Psychology, 9*. [https://doi.org/10.3389/fpsyg.2018.00214](https://doi.org/10.3389/fpsyg.2018.00214)
+- Jacobs, T. P., **Wang, M.**, Leach, S., Siu, H. L., Khanna, M., Chan, K. W., Chau, H. T., Tam, K. Y. Y., & Feldman, G. (2024). Revisiting the Motivated Denial of Mind to Animals Used for Food: Replication Registered Report of Bastian et al. (2012). *International Review of Social Psychology, 37*(1): 6, 1–15. [https://doi.org/10.5334/irsp.932]
 
-- Yang, Y., De Cremer, D., & **Wang, C.** (2017). How Ethically Would Americans and Chinese Negotiate? The Effect of Intra-cultural Versus Inter-cultural Negotiations. *Journal of Business Ethics, 145*(3), 659–670. [https://doi.org/10.1007/s10551-015-2863-2](https://doi.org/10.1007/s10551-015-2863-2)
+- *Brick, C., *Fillon, A., *Yeung, S. K., ***Wang‎, M.**, *Lyu‎, H., *Ho‎, J. Y. J., ... & Feldman, G. (2021). Self-interest is overestimated: Two successful pre-registered replications and extensions of Miller and Ratner (1998). *Collabra: Psychology, 7*(1), 23443. [https://doi.org/10.1525/collabra.23443]
+
 
 <span class='anchor' id='work-in-progress'></span>
 # Work in progress
 
-- (with Katharina Schmid). The Role of Undesirable Precedents in Negotiations. *Working paper*
+- The divergent impact of missed opportunities, with Berman, J., and Faro, D. *Manuscript in preparation*.
 
-- (with Haotian Zhou, Ziqian Li, and Yu Yang). Reinstating Pleasantness as a Causal Antecedent of Interest. *Working paper*
+- Perception and Preferences for Policies with Tolerance Zones, with Özlem Tetik, Amanda Geiser, and Jonathan Beran. *Data collection in progress*.  
 
-- (with Selin Kesebir and Daniel Heller). Gender and Equity Perceptions. *Data collection*
-
-- (with Daisung Jang and Jeffrey Loewenstein). Perceptions of Information in Negotiations. *Data collection*
-
-- (with Katharina Schmid). Overcoming Undesirable Precedents in Negotiations. *Data collection*
-
-- (with Selin Kesebir and Katharina Schmid). Reminders, Agency, and Managers' Willingness to Delegate. *Data collection*
-
-- (with Katharina Schmid). When and Why Do People Underestimate the Effect of Undesirable Precedents? *Conceptual stage*
 
 <span class='anchor' id='presentations'></span>
 # Conference presentations
 
-- Zhou, H., **Wang, C.** (Presenter), Li, Z., & Yang, Y. (2024, July) Suppressed Pleasure: Reinstating Pleasantness as a Causal Antecedent of Interest [Oral presentation]. *2024 Conference of the International Society for Research on Emotion (ISRE)*, Belfast, Northern Ireland.
+“The divergent impact of missed opportunities: How missing out can either motivate or demotivate consumers to purchase”
+- EMAC Doctoral Colloquium, May 2025
+- ACR presentation, Paris, Sep 2024
+- SJDM poster presentation, San Francisco, Nov 2023
+- SJDM doctoral symposium, Virtual, Jun 2023
 
-- **Wang, C.** (Presenter), & Schmid, K. (2024, June) The Shadow of the Past: Unveiled Undesirable Precedents Harm (Objective and Subjective) Negotiation Outcomes [Oral presentation]. *The 37th Annual Conference of International Association for Conflict Management (IACM 2024)*, Singapore.
-
-- **Wang, C.** (Presenter), & Schmid, K. (2023, November) The Shadow of the Past: Disclosed Undesirable Precedents Harm (Objective and Subjective) Negotiation Outcomes [Poster presentation]. *Society for Judgment and Decision Making Annual Conference 2023*, San Francisco, USA.
-
-- Loyd, D., Brown, A., **Wang, C.** (Presenter), Thomas-Hunt, M., & Yang, Y. (2018, July) Who shall lead us?: Leader nationality and style influence US follower’s reactions to leaders of nationally diverse teams [Oral presentation]. *The 13th annual INGRoup (interdisciplinary network for group research) conference*, Bethesda, USA.
-
-- Loewenstein, J., & **Wang, C.** (Presenter) (2016, June) Social Support for Creative Agreements: Distinct Effects of Respect and Trust [Oral presentation]. *The 29th Annual Conference of International Association for Conflict Management (IACM)*, New York City, USA.
+“Preferences and Perceptions of Tolerance Zones in Policy”
+- London Marketing PhD Research Day, London, Feb 2025
 
 
 
@@ -90,7 +71,7 @@ Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Curren
 
 
 <p align="center">
-Site by <a href="https://chaodwang.github.io/" target="_blank">Chao Wang</a> Theme by <a href="https://rayeren.github.io/" target="_blank">RayeRen</a>
+Site by <a href="https://chaodwang.github.io/" target="_blank">Meiying Wang</a> Theme by <a href="https://rayeren.github.io/" target="_blank">RayeRen</a>
 </p>
 
 
