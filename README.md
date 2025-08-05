@@ -1,10 +1,10 @@
 
 <h1 align="center">
-Chao's homepage
+Meiying's homepage
 </h1>
 
 
-Site by [Chao Wang](https://chaodwang.github.io/)  Theme by [Yi Ren](https://rayeren.github.io/)
+Theme by [Yi Ren](https://rayeren.github.io/)
 
 
 ### Acknowledges
